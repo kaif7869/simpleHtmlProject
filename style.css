@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html {
+    background: #2a2a2a;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    color: #fff;
+}
+
+h1,
+p:hover {
+    color: aqua;
+}
